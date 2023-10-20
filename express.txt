@@ -1,0 +1,19 @@
+1. What is Express.js?
+=> Express.js is a popular and widely used web application framework for Node.js. It's designed to simplify the process of building web applications and APIs in Node.js by providing many features and tools. 
+
+=> Express.js use to building web applications and APIs with Node.js due to its simplicity and the vast number of resources and libraries available in the Node.js ecosystem.
+
+
+
+2. Why use Express.js?
+=> Express simplifies the process of defining and handling routes, making it easy to create a structured and organized API or web application with different HTTP methods (GET, POST, PUT, DELETE).
+
+=> Express's middleware system allows you to add functionality to your application in a modular and reusable way. You can use built-in middleware or create custom middleware to handle tasks such as authentication, logging, and error handling.
+
+=> Express has a large and active community, resulting in a rich ecosystem of middleware and extensions. You can easily find and integrate third-party packages to extend the functionality of your application.
+
+=>  Express is known for its performance and is well-suited for high-traffic and production applications. It's built on top of Node.js, which is known for its non-blocking I/O, making it efficient and scalable.
+
+=>  Express is flexible. You can integrate it with various front-end frameworks, libraries, and databases, giving you the freedom to choose the tools and components that best fit your project's requirements.
+
+=> Express is compatible with a wide range of view engines, making it easy to render dynamic HTML pages. Popular view engines like EJS, Pug, and Handlebars can be used with Express.
